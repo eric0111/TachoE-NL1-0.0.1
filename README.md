@@ -32,7 +32,7 @@ TachoE is a tool to study heart rate variability by providing time, frequency an
 Preliminary studies on reference papers, goal of the analysis, metrics and dataset, projects and software specification, implementation choices, and further developments are available in "TachoE-NL1-0.0.1_Report.pdf"
 
 ## Acnkoweldgemnts
-I want to thank Necstcamp, Prof. Marco D. Santambrogio, Letizia Clementi PhD, and POLIMI for giving me opportunity to play with this project.
+I want to thank NECSTCamp, Prof. Marco D. Santambrogio, Letizia Clementi PhD, and POLIMI for giving me opportunity to play with this project.
 
 
 
