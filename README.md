@@ -4,10 +4,10 @@ TachoE is a tool to study heart rate variability by providing time, frequency an
 
 ## Installation
 
-*OSX: download TachoE.main and double click on the downloaded file to start the program.
+*OSX: download TachoE-0.0.1-OSX and double click on the downloaded file to start the program.
 
 
-*Windows: download TachoE.exe and double click on the downloaded file to start the program.
+*Windows: download TachoE-0.0.1-WS and double click on the downloaded file to start the program.
 
 ## Usage
 *Analyze Data:
