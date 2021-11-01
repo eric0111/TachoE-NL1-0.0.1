@@ -9,6 +9,11 @@ TachoE is a tool to study heart rate variability by providing time, frequency an
 
 *Windows: download TachoE-0.0.1-WS and double click on the downloaded file to start the program.
 
+
+## Sample Dataset
+Irurzun, I. M., Garavaglia, L., Defeo, M. M., & Thomas Mailland, J. (2021).  RR interval time series from healthy subjects  (version1.0.0).  PhysioNet. https://doi.org/10.13026/51yd-d219", also available in tachograms folder.
+
+
 ## Usage
 *Analyze Data:
 
