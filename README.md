@@ -33,7 +33,7 @@ Irurzun, I. M., Garavaglia, L., Defeo, M. M., & Thomas Mailland, J. (2021).  RR 
 
 ## Demo
 
-![TachoE Demo](demo/demo.gif)
+![TachoE Demo](bin/demo/demo.gif)
 
 ## Report
 
