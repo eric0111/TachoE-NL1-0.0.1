@@ -32,6 +32,8 @@ Irurzun, I. M., Garavaglia, L., Defeo, M. M., & Thomas Mailland, J. (2021).  RR 
 - click on "ok" to generate a pdf file with the results
 
 
+![TachoE Demo](demo/demo.gif)
+
 ## Report
 
 Preliminary studies on reference papers, goal of the analysis, metrics and dataset, projects and software specification, implementation choices, and further developments are available in "TachoE-NL1-0.0.1_Report.pdf"
