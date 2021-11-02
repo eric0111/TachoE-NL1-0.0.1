@@ -31,6 +31,7 @@ Irurzun, I. M., Garavaglia, L., Defeo, M. M., & Thomas Mailland, J. (2021).  RR 
 
 - click on "ok" to generate a pdf file with the results
 
+## Demo
 
 ![TachoE Demo](demo/demo.gif)
 
